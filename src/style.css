@@ -1,0 +1,52 @@
+.whatsapp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.search{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.search input{
+    width: 50%;
+    border: none;
+}
+.search img{
+    width: 40px;
+   
+}
+.chat{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 340px;
+    margin-top: 20px;
+    padding:10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    width: 80%;
+
+}
+
+.chat img{
+    width: 60px;
+    height: 60px;
+    border-radius: 200px;
+    padding-right: 5px;
+}
+.chat_1{
+    display: flex;
+    align-items: center;
+}
+
+.chat_2 img{
+    padding: 2px;
+    width: 30px;
+    height: 30px;
+}
